@@ -1,7 +1,7 @@
-# NayMyoThant's Developer Profile 👨‍💻
+# I am Nay Myo Thant👨‍💻
 
 ## **About Me**
-Hi, I'm NayMyoThant, a passionate **Flutter Developer** with over **3 years of coding experience**. I enjoy building efficient, user-friendly applications and continuously learning new technologies to expand my expertise.
+Hi, I'm Nay Myo Thant, a passionate **Flutter Developer** with over **3 years of coding experience**. I enjoy building efficient, user-friendly applications and continuously learning new technologies to expand my expertise.
 
 Currently, I'm studying **Psychology at Yadanabon University** while learning **Machine Learning**, **Computer Science**, and **Unity Game Development** in my free time.
 
